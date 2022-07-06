@@ -1,10 +1,10 @@
 ---
-title: Administration
+title: Home
 layout: base
 permalink: /
-redirect_from: provides
+redirect_from:
   - /news/meetingrsvp.cfm
-  - /news/doni-setiawan-824673243
+  - /news/
   - /news/index.cfm
   - /news/currentEvents.cfm
   - /index.cfm
